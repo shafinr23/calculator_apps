@@ -1,16 +1,20 @@
-# cal
+# CALCULATOR
+This project is a simple Calculator apps for Android and IOS 
 
-A new Flutter project.
+![calculator app by shafin](https://github.com/shafinr23/calculator_apps/blob/master/assets/Selection_005.png)
+
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Install Flutter 
+- clone this repo
+- open terminal in type ```flutter run ```
 
 For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[online documentation](https://flutter.dev/docs)
+For More Info Contact Me 
+[ShafinRahman](https://www.facebook.com/shafinr98)
+
+
